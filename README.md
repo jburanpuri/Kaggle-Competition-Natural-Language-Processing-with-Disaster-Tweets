@@ -14,17 +14,5 @@ To build a machine learning model that predicts whether a tweet is about a real 
 - Model training and validation
 - Evaluation using accuracy/F1-score
 
-## 🚀 Getting Started
 
-### Prerequisites
 
-Ensure you have the following installed:
-
-- Python 3.8+
-- Jupyter Notebook
-- pip
-
-### Install Dependencies
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn nltk
